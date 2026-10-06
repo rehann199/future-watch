@@ -1,0 +1,16 @@
+# Analysis and raw assets (not for repo)
+/analysis/
+/screenshots/
+/_run-logs/
+
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env*
+
+# Database
+*.db
+
+# OS
+.DS_Store
