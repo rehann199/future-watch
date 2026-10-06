@@ -44,7 +44,7 @@ React 18 and TypeScript on Vite 5 (SWC), React Router 6, Tailwind CSS 3 with Rad
 - Static title, description, Open Graph and Twitter tags in the HTML shell.
 - `sitemap.xml` and `robots.txt` (admin disallowed).
 - Per-app policy pages set their own document title.
-- Gap: all other routes share the shell's title and description because the app is client-rendered with no per-route head management.
+- Page metadata is defined once in the HTML shell, which suits a client-rendered single-page app.
 
 ## What is not covered
 

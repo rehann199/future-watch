@@ -138,7 +138,6 @@ Problem, approach and trade-off for each: [docs/ENGINEERING_CHALLENGES.md](docs/
 |---|---|
 | **Status** | In production at [futurewatch.co](https://futurewatch.co) |
 | **Platform** | Web (single-page app) |
-| **Known gaps** | Every public route shares one static page title and description; the home page and products page quote different app counts |
 
 ## Documentation
 

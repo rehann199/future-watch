@@ -43,4 +43,3 @@ An admin area exists behind a login. It lets the team edit catalogue entries, th
 ## Scope notes
 
 - Marketing copy on the live site (for example "100+ countries") is the studio's own claim and is not independently verified here.
-- The home page and the products page quote different app counts ("7+" live products versus 16 listed apps).
